@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subabalan2
+- 👋 Hi, I’m @Subabalan
 - 👀 I’m interested in Full Stack Developer and UI/UX designer
 - 🌱 I’m currently learning  pre-final year student
 - 💞️ I’m looking to collaborate on coding skills 
