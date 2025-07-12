@@ -49,4 +49,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subabalan04&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subabalan04&layout=compact&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subabalan04&theme=radical" width="60%"/>
+</p>
+
+
 📌 **Let's connect & create something amazing together!**
