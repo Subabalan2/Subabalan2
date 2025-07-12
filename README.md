@@ -2,17 +2,26 @@
 
 # 👋 Hi, I'm Subabalan A
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 💻 Passionate about **Full Stack Web Development** and **UI/UX Design**  
 🎓 Pre-final year Computer Science Engineering student  
 🌱 Currently sharpening my coding skills and exploring new tech stacks  
 🤝 Looking forward to collaborating on creative frontend/backend projects  
-📫 Reach me: subabalan04@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/subabalan28/
+📫 Reach me: subabalan04@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/subabalan28/)  
 🧠 Motto: *Enjoy every minute and wake up to reality*  
-👩‍💻 Pronouns:her  
-<p align="center">
-  <img src="git.gif" alt="Git Demo" width="400" />
-</p>
+👩‍💻 Pronouns: her
+
+</td>
+    <td align="center" width="40%">
+      <img src="git.gif" alt="Git Demo" width="300"/>
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Projects I’ve Worked On
 
