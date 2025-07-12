@@ -67,10 +67,9 @@
         <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"/>
       </p>
     </td>
-
-    <!-- RIGHT: Developer Setup Image -->
     <td width="40%" align="center">
-      <img src="assets/setup.png" width="300" alt="Developer Setup"/>
+      <img src="<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Developer coding"/>
+" width="300" alt="Student coding and thinking multiple languages"/>
     </td>
   </tr>
 </table>
