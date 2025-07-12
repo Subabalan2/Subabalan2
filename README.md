@@ -13,17 +13,17 @@
 
 ## 🚀 Projects I’ve Worked On
 
-| Project | Description |
-|--------|-------------|
-| 🎨 **Portfolio Website** | Personal branding & skill showcase |
+| Project | Description |            |
+|--------|-------------|--------------|
+| 🎨 **Portfolio Website** | Personal branding & skill showcase |  <p align="center">
+  <img src="git.gif" alt="Git Demo" width="400" />
+</p>
 | 🍨 **Ice Cream Landing Page** | Sweet & responsive UI design |
 | 🍽️ **Restaurant Menu Website** | Menu display with modern layout |
 | 🎵 **Spotify Clone** | Music streaming UI replica |
 | 👟 **Shoe Landing Page** | E-commerce style product layout |
 
-<p align="center">
-  <img src="git.gif" alt="Git Demo" width="400" />
-</p>
+
 
 
 
