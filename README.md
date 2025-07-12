@@ -50,7 +50,6 @@
     <!-- LEFT: Tech Stack -->
     <td width="60%" valign="top">
 
-<!-- Badges: You can reorder or add more -->
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"/>
@@ -71,12 +70,13 @@
 
 </td>
 
-<!-- RIGHT: GIF -->
+<!-- RIGHT: Student + Code Brain GIF -->
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Tech Stack Demo GIF"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Student Learning GIF"/>
 </td>
   </tr>
 </table>
+
 
 
 
