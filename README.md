@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-    <!-- LEFT: Tech Stack -->
+    <!-- LEFT: Tech Stack Badges -->
     <td width="60%" valign="top">
 
 <p>
@@ -70,12 +70,13 @@
 
 </td>
 
-<!-- RIGHT: Student + Code Brain GIF -->
+<!-- RIGHT: Student GIF -->
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="300" alt="Student Learning GIF"/>
+  <img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*rxwuzRjkRWp_vI3H4Eo5og.gif" width="300" alt="Student Learning Full Stack GIF"/>
 </td>
   </tr>
 </table>
+
 
 
 
