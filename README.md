@@ -10,14 +10,15 @@
 🔗 LinkedIn: https://www.linkedin.com/in/subabalan28/
 🧠 Motto: *Enjoy every minute and wake up to reality*  
 👩‍💻 Pronouns:her  
+<p align="center">
+  <img src="git.gif" alt="Git Demo" width="400" />
+</p>
 
 ## 🚀 Projects I’ve Worked On
 
-| Project | Description |            |
-|--------|-------------|--------------|
-| 🎨 **Portfolio Website** | Personal branding & skill showcase |  <p align="center">
-  <img src="git.gif" alt="Git Demo" width="400" />
-</p>
+| Project | Description |            
+|--------|-------------|
+| 🎨 **Portfolio Website** | Personal branding & skill showcase |  
 | 🍨 **Ice Cream Landing Page** | Sweet & responsive UI design |
 | 🍽️ **Restaurant Menu Website** | Menu display with modern layout |
 | 🎵 **Spotify Clone** | Music streaming UI replica |
