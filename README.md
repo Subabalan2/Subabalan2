@@ -12,12 +12,16 @@
 👩‍💻 Pronouns:her  
 
 ## 🚀 Projects I’ve Worked On
-- 🎨 **Portfolio Website** – Personal branding & skill showcase  
-- 🍨 **Ice Cream Landing Page** – Sweet & responsive UI design  
-- 🍽️ **Restaurant Menu Website** – Menu display with modern layout  
-- 🎵 **Spotify Clone** – Music streaming UI replica  
-- 👟 **Shoe Landing Page** – E-commerce style product layout
--<img src="git.gif" alt="Git Demo" width="400" height="300"/>
+
+| Project | Description |
+|--------|-------------|
+| 🎨 **Portfolio Website** | Personal branding & skill showcase   |
+| 🍨 **Ice Cream Landing Page** | Sweet & responsive UI design    | 
+| 🍽️ **Restaurant Menu Website** | Menu display with modern layout|
+| 🎵 **Spotify Clone** | Music streaming UI replica               |
+| 👟 **Shoe Landing Page** | E-commerce style product layout      |
+| 🧪 **Git Demo** | <img src="git.gif" width="250"/> <br/> Git operations walkthrough |
+
 
 
 
