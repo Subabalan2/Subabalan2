@@ -25,15 +25,20 @@
 
 ## 🚀 Projects I’ve Worked On
 
-| Project | Description |            
-|--------|-------------|
-| 🎨 **Portfolio Website** | Personal branding & skill showcase |  
-| 🍨 **Ice Cream Landing Page** | Sweet & responsive UI design |
-| 🍽️ **Restaurant Menu Website** | Menu display with modern layout |
-| 🎵 **Spotify Clone** | Music streaming UI replica |
-| 👟 **Shoe Landing Page** | E-commerce style product layout |
+<p align="center">
+  <img src="https://img.shields.io/badge/🎨%20Portfolio-Showcase-blueviolet" width="45%"/>
+  <img src="https://img.shields.io/badge/🍨%20Ice%20Cream%20Landing%20Page-UI%20Design-ff69b4" width="45%"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/🍽️%20Restaurant%20Menu-Modern%20Layout-orange" width="45%"/>
+  <img src="https://img.shields.io/badge/🎵%20Spotify%20Clone-Music%20UI%20Replica-green" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/👟%20Shoe%20Landing%20Page-Ecommerce%20Layout-blue" width="45%"/>
+</p>
+
 
 ### 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
