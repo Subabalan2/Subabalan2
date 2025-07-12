@@ -68,7 +68,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JyY21lNXRocXJ4ZWNpbWs4dWpycnplZHUwYXo0YWluZHM4YXVreSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif)" width="300" alt="Developer Coding GIF"/>
+      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Developer Coding GIF"/>
     </td>
   </tr>
 </table>
