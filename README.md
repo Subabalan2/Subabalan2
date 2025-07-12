@@ -27,26 +27,21 @@
 
 <table>
   <tr>
-    <td><strong>🎨 Portfolio Website</strong></td>
-    <td>Personal branding & skill showcase</td>
-  </tr>
-  <tr>
-    <td><strong>🍨 Ice Cream Landing Page</strong></td>
-    <td>Sweet & responsive UI design</td>
-  </tr>
-  <tr>
-    <td><strong>🍽️ Restaurant Menu Website</strong></td>
-    <td>Menu display with modern layout</td>
-  </tr>
-  <tr>
-    <td><strong>🎵 Spotify Clone</strong></td>
-    <td>Music streaming UI replica</td>
-  </tr>
-  <tr>
-    <td><strong>👟 Shoe Landing Page</strong></td>
-    <td>E-commerce style product layout</td>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Project Demo GIF"/>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>🎨 <strong>Portfolio Website</strong> – Personal branding & skill showcase</li>
+        <li>🍨 <strong>Ice Cream Landing Page</strong> – Sweet & responsive UI design</li>
+        <li>🍽️ <strong>Restaurant Menu Website</strong> – Menu display with modern layout</li>
+        <li>🎵 <strong>Spotify Clone</strong> – Music streaming UI replica</li>
+        <li>👟 <strong>Shoe Landing Page</strong> – E-commerce style product layout</li>
+      </ul>
+    </td>
   </tr>
 </table>
+
 
 
 ### 🛠️ Tech Stack
