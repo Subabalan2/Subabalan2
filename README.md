@@ -1,4 +1,4 @@
-![image alt](![git.gif)
+![Me]([git.gif)
 
 # 👋 Hi, I'm Subabalan A
 
