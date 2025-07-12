@@ -43,15 +43,41 @@
 </table>
 
 
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+<table>
+  <tr>
+    <!-- LEFT: Tech Stack -->
+    <td width="60%" valign="top">
 
----
+<!-- Badges: You can reorder or add more -->
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"/>
+</p>
+
+</td>
+
+<!-- RIGHT: GIF -->
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Tech Stack Demo GIF"/>
+</td>
+  </tr>
+</table>
+
 
 
 
