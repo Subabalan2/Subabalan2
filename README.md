@@ -1,4 +1,4 @@
-![Me]([git.gif)
+
 
 # 👋 Hi, I'm Subabalan A
 
@@ -16,7 +16,9 @@
 - 🍨 **Ice Cream Landing Page** – Sweet & responsive UI design  
 - 🍽️ **Restaurant Menu Website** – Menu display with modern layout  
 - 🎵 **Spotify Clone** – Music streaming UI replica  
-- 👟 **Shoe Landing Page** – E-commerce style product layout  
+- 👟 **Shoe Landing Page** – E-commerce style product layout
+- ![Git Demo](git.gif)
+
 
 ---
 
