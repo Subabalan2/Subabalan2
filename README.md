@@ -17,7 +17,8 @@
 - 🍽️ **Restaurant Menu Website** – Menu display with modern layout  
 - 🎵 **Spotify Clone** – Music streaming UI replica  
 - 👟 **Shoe Landing Page** – E-commerce style product layout
-- ![Git Demo](git.gif)
+-<img src="git.gif" alt="Git Demo" width="400" height="300"/>
+
 
 
 ---
