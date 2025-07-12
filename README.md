@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-    <!-- LEFT: Tech Stack -->
+    <!-- LEFT: Tech Stack Badges -->
     <td width="60%" valign="top">
       <p>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
@@ -68,11 +68,11 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Developer coding"/>
-" width="300" alt="Student coding and thinking multiple languages"/>
+      <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="Developer Coding GIF"/>
     </td>
   </tr>
 </table>
+
 
 
 
