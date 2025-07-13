@@ -1,9 +1,11 @@
+
+
 # 👋 Hi, I'm Subabalan A
 
 <table>
   <tr>
-    <td valign="top" width="100%">
-    
+    <td width="60%" valign="top">
+
 💻 Passionate about **Full Stack Web Development** and **UI/UX Design**  
 🎓 Pre-final year Computer Science Engineering student  
 🌱 Currently sharpening my coding skills and exploring new tech stacks  
@@ -13,28 +15,22 @@
 🧠 Motto: *Enjoy every minute and wake up to reality*  
 👩‍💻 Pronouns: her
 
-<br/>
-
-<div align="center">
-  <img src="git.gif" alt="Git Demo" style="max-width: 100%; width: 300px;" />
-</div>
-
 </td>
+    <td align="center" width="40%">
+      <img src="git.gif" alt="Git Demo" width="300"/>
+    </td>
   </tr>
 </table>
 
----
 
 ## 🚀 Projects I’ve Worked On
 
 <table>
   <tr>
-    <td width="100%">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Project Demo GIF" style="max-width: 100%; width: 100%;" />
+    <td width="50%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Project Demo GIF"/>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%" valign="top">
       <ul>
         <li>🎨 <strong>Portfolio Website</strong> – Personal branding & skill showcase</li>
         <li>🍨 <strong>Ice Cream Landing Page</strong> – Sweet & responsive UI design</li>
@@ -46,14 +42,13 @@
   </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
 <table>
   <tr>
     <!-- LEFT: Tech Stack Badges -->
-    <td valign="top" width="100%">
+    <td width="60%" valign="top">
       <p>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"/>
@@ -72,14 +67,18 @@
         <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white"/>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td width="40%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JyY21lNXRocXJ4ZWNpbWs4dWpycnplZHUwYXo0YWluZHM4YXVreSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" alt="Developer Coding GIF"/>
     </td>
   </tr>
 </table>
 
----
+
+
+
+
+
+
+
 
 📌 **Let's connect & create something amazing together!**
