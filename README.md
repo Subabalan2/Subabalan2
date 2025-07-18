@@ -41,8 +41,7 @@
   <li>🧭 <strong>Travel Visit Frontend Page</strong> – Developed in TypeScript for a smooth travel booking experience</li>
   <li>🏠 <strong>Digital Home Leasing Platform</strong> – End-to-end rental interface built with React</li>
 </ul>
-
-    </td>
+</td>
   </tr>
 </table>
 
