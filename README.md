@@ -6,7 +6,7 @@
   <tr>
     <td width="60%" valign="top">
 
-💻 Passionate about **Full Stack Web Development** and **UI/UX Design**  
+💻 Passionate about **Full Stack Web Developer** and **UI/UX Design**  
 🎓 Pre-final year Computer Science Engineering student  
 🌱 Currently sharpening my coding skills and exploring new tech stacks  
 🤝 Looking forward to collaborating on creative frontend/backend projects  
@@ -32,12 +32,16 @@
     </td>
     <td width="50%" valign="top">
       <ul>
-        <li>🎨 <strong>Portfolio Website</strong> – Personal branding & skill showcase</li>
-        <li>🍨 <strong>Ice Cream Landing Page</strong> – Sweet & responsive UI design</li>
-        <li>🍽️ <strong>Restaurant Menu Website</strong> – Menu display with modern layout</li>
-        <li>🎵 <strong>Spotify Clone</strong> – Music streaming UI replica</li>
-        <li>👟 <strong>Shoe Landing Page</strong> – E-commerce style product layout</li>
-      </ul>
+  <li>🎨 <strong>Portfolio Website</strong> – Personal branding & skill showcase</li>
+  <li>🍨 <strong>Ice Cream Landing Page</strong> – Sweet & responsive UI design</li>
+  <li>🍽️ <strong>Restaurant Menu Website</strong> – Menu display with modern layout</li>
+  <li>🎵 <strong>Spotify Clone</strong> – Music streaming UI replica</li>
+  <li>👟 <strong>Shoe Landing Page</strong> – E-commerce style product layout</li>
+  <li>🛂 <strong>Gate Pass & Visitor Management System</strong> – Built using React for secure and efficient entry tracking</li>
+  <li>🧭 <strong>Travel Visit Frontend Page</strong> – Developed in TypeScript for a smooth travel booking experience</li>
+  <li>🏠 <strong>Digital Home Leasing Platform</strong> – End-to-end rental interface built with React</li>
+</ul>
+
     </td>
   </tr>
 </table>
