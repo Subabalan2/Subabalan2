@@ -71,7 +71,7 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JyY21lNXRocXJ4ZWNpbWs4dWpycnplZHUwYXo0YWluZHM4YXVreSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" alt="Developer Coding GIF"/>
+      <img src="https://i.pinimg.com/originals/22/a5/c7/22a5c746a97687ea11af86ee8bfabe20.gif" width="300" alt="Developer Coding GIF"/>
     </td>
   </tr>
 </table>
