@@ -25,92 +25,25 @@
 
 ## 🚀 Projects I’ve Worked On
 
-name: Subabalan A
-located_in: Tamil Nadu, India
-current_status: Pre-final Year Computer Science Engineering Student
-aspiring_role: Full Stack Developer | UI/UX Designer
-email: subabalan04@gmail.com
-linkedin: https://www.linkedin.com/in/subabalan28/
-motto: "Enjoy every minute and wake up to reality"
-pronouns: she/her
-
-education:
-  [
-    "Bachelor’s in Computer Science and Engineering (Ongoing)",
-    "Self-Taught Frontend and Backend Developer",
-    "Self-Taught UI/UX Designer",
-  ]
-
-fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX Design",
-    "Machine Learning",
-    "Game Development",
-    "DevOps",
-    "Mobile App Development",
-  ]
-
-technical_background:
-  [
-    "Full Stack Developer (MERN Stack)",
-    "Firebase Functions & Firestore Integration",
-    "UI/UX Designer - Figma, Wireframes & Prototypes",
-    "Backend Developer - Node.js, Express.js",
-    "Frontend Developer - React, HTML, CSS, JS",
-    "Basic Knowledge of C, C++, Java, Python",
-    "Database Experience - MongoDB, MySQL",
-  ]
-
-currently_learning:
-  [
-    "Docker",
-    "Kubernetes",
-    "React Native",
-    "CI/CD Pipelines",
-    "System Design",
-  ]
-
-goals_2024:
-  [
-    "Create 25+ Full Stack / Creative Projects",
-    "Learn and implement 5–10 new technologies",
-    "Contribute to Open Source Projects",
-    "Write technical blogs",
-    "Enhance collaboration & problem-solving skills",
-  ]
-
-projects:
-  [
-    "Portfolio Website - Personal branding & skills showcase",
-    "Ice Cream Landing Page - Responsive themed UI",
-    "Restaurant Menu Website - Modern food display layout",
-    "Spotify Clone - Music streaming UI with React",
-    "Shoe Landing Page - E-commerce product layout",
-    "Gate Pass & Visitor Management System - Built with React + Firebase",
-    "Travel Visit Frontend Page - Built in TypeScript for travel booking",
-    "Digital Home Leasing Platform - MERN stack rental app",
-  ]
-
-tech_stack:
-  [
-    "HTML5", "CSS3", "JavaScript", "TypeScript",
-    "C", "C++", "Java", "Python",
-    "React.js", "Node.js", "Express.js",
-    "MongoDB", "MySQL", "Firebase",
-    "Git", "GitHub", "Docker", "Figma",
-  ]
-
-hobbies:
-  [
-    "Gaming",
-    "Cinema",
-    "Art",
-    "Comedy",
-    "Skateboarding",
-    "Exploring New Tech",
-  ]
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Project Demo GIF"/>
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+  <li>🎨 <strong>Portfolio Website</strong> – Personal branding & skill showcase</li>
+  <li>🍨 <strong>Ice Cream Landing Page</strong> – Sweet & responsive UI design</li>
+  <li>🍽️ <strong>Restaurant Menu Website</strong> – Menu display with modern layout</li>
+  <li>🎵 <strong>Spotify Clone</strong> – Music streaming UI replica</li>
+  <li>👟 <strong>Shoe Landing Page</strong> – E-commerce style product layout</li>
+  <li>🛂 <strong>Gate Pass & Visitor Management System</strong> – Built using React for secure and efficient entry tracking</li>
+  <li>🧭 <strong>Travel Visit Frontend Page</strong> – Developed in TypeScript for a smooth travel booking experience</li>
+  <li>🏠 <strong>Digital Home Leasing Platform</strong> – End-to-end rental interface built with React</li>
+</ul>
+</td>
+  </tr>
+</table>
 
 
 ## 🛠️ Tech Stack
@@ -152,3 +85,5 @@ hobbies:
 
 
 📌 **Let's connect & create something amazing together!**
+
+design this make more to beautifull
